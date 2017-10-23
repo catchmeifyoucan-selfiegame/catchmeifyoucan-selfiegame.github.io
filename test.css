@@ -1,0 +1,40 @@
+.fadeOut {
+	display:none;
+	position:absolute;
+}
+
+#final {
+	position:absolute;
+	display:none;
+	
+	
+}
+
+#output {
+	text-align: center;
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+	/*font-family: "Arial Black", Gadget, sans-serif'*/
+}
+
+button > p{
+	color: white;
+}
+
+button {
+	width: 100px;
+	background-color: #0099ff;
+	border: none;
+	box-shadow: 5px 5px 10px -3px rgba(220, 220, 220, 1);
+}
+
+button:hover {
+	background-color: #0077dd;
+}
+
+button:active {
+	background-color: #0077aa;
+	transform: translateY(2px);
+}
