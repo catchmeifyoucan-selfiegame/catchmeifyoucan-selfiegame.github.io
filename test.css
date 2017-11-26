@@ -40,6 +40,9 @@ p {
 
 button > p{
 	color: white;
+	font-weight: normal;
+	font-size: 19px; 
+	font-family: 'Ubuntu', sans-serif;
 }
 
 button {
