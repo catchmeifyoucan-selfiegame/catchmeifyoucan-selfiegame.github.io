@@ -8,18 +8,7 @@ var facts = ["test sentances i!!!!!!11!!1!1!",
 			"you're not welcome anymore. I should have change that stupid lock",
 			"I should have made you leave your key"];
 			
-var names = ["HELP ME MAKE SOME TEST factts",
-			"I factually NEED MY BAG DO",
-			"facc IDK WHAT TOR RIGHT ",
-			"true stordasot say what mys  be said",
-			"stop factually please ", 
-			"fact: naasddsdasdadadas", 
-			"fact: ???? test tsentances etc. etc. etc. dath boeyio",
-			"fact: you'rdsdse not welcome anymore. I should have change thatlock",
-			"fact: thacdsdsdsdsdscts",
-			"did you know that most people are NOTad GOOD because they believe in percentages",
-			"only hs people are allowed in this room, true fact",
-			"test fact"]
+var names = ["Emma Alcock", "Shelby Dye", "Julia Magolon", "Taylor Williams", "Cassie Gastmeier", "Quinn Lang", "Hunter Tucker", "Alex Brisbin", "Damian Barbu", "Lea Braun", "Yng $wiper", "Jordan Lunn", "Ryan McCuaig", "Matthew Gartner", "Fouad Khattab", "Joseph Lu", "Joss Murphy", "Pranav Gupta", "Ozan Bayezit", "Gillian McGregor", "Brooklyn Savage", "Colin Hsu", "Zoe Fitzsimmons", "Hima Sheth", "Brooke Winter", "Tegan Morrison", "Marly Verhoeve", "Christopher Jones", "Thorben Wennemer", "Tim Khaperski", "Connor Button", "Eilidh Perston", "Andrew Bassili", "Sam Rintche", "Omar Elmallah", "Phoebe McAdam", "Noah Nimer", "Kangan Mahajan", "Dajana Bakoc", "Brynn Plaxton", "Sara Hussein", "Jared Proll", "Lucie Mitchell", "Emily Vaillancourt", "Kelsey Fixter", "Teigan Veitch", "Jake Choi", "Hayden Steer", "Henry O'Connor", "Owen Kent", "Sam Driever", "Carson Davis", "John Tupling", "Halloween every", "Carlo Lobrutto", "Viktor De", "Theo Dan", "Ashley Malcolm", "Jasmine Zafari", "Umaymah Suhail", "Manahil Khan", "Luandrya Martins", "Gary Shen", "Graham Smith", "Emily Roest", "Trudy MacDonald", "Paige Gascho", "Nathan Pineda", "Michaela Kennedy", "Tallis Dalrymple", "Joel Jobby", "Zach Couture", "Bryanna Chalmers", "Eliza Gill"]
 
 function randInRange(min, max) {
 	return Math.floor(Math.random() * (max - min) + min);
