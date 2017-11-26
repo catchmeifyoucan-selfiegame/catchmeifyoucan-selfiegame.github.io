@@ -13,6 +13,7 @@
 #output {
 	text-align: center;
 	background-image: url('https://pbs.twimg.com/profile_images/2545361651/4mic2ovt8v9mx9x1otk7.jpeg');
+	filter: blur(5px);
 }
 
 p {
