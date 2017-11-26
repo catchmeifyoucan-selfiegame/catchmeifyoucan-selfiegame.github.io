@@ -25,6 +25,8 @@
 #output {
 	text-align: center;
 	position: absolute;
+	height: 1280px;
+	width: 720px;
 	
 	
 }
@@ -46,6 +48,8 @@ button > p{
 }
 
 button {
+	position: absolute;
+	top: 720px;
 	width: 100px;
 	background-color: #0099ff;
 	border: none;
