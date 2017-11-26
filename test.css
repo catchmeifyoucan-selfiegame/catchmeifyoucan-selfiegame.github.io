@@ -10,9 +10,21 @@
 	
 }
 
+#first {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#second {
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+
 #output {
 	text-align: center;
-	background-image: url('https://pbs.twimg.com/profile_images/2545361651/4mic2ovt8v9mx9x1otk7.jpeg');
+	
 	
 }
 
